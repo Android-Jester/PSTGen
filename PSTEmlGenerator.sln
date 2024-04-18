@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSTEmlGeneratorBin", "PSTEmlGeneratorBin\PSTEmlGeneratorBin.csproj", "{1EFAC2C3-B35B-4081-B4AE-93DBBD95C278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PstParser", "PstParser\PstParser.csproj", "{8442DB09-E171-4D5B-95FE-E3740660ECF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMLParser", "EMLParser\EMLParser.csproj", "{57C7CCBF-C84A-4B9B-82BF-AD008F25A4B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EFAC2C3-B35B-4081-B4AE-93DBBD95C278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFAC2C3-B35B-4081-B4AE-93DBBD95C278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFAC2C3-B35B-4081-B4AE-93DBBD95C278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFAC2C3-B35B-4081-B4AE-93DBBD95C278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8442DB09-E171-4D5B-95FE-E3740660ECF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8442DB09-E171-4D5B-95FE-E3740660ECF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8442DB09-E171-4D5B-95FE-E3740660ECF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8442DB09-E171-4D5B-95FE-E3740660ECF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57C7CCBF-C84A-4B9B-82BF-AD008F25A4B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C7CCBF-C84A-4B9B-82BF-AD008F25A4B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C7CCBF-C84A-4B9B-82BF-AD008F25A4B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C7CCBF-C84A-4B9B-82BF-AD008F25A4B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
